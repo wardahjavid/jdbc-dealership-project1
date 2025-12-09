@@ -72,4 +72,3 @@ Follow the instructions below to set up and run this project.
 - **Apache DBCP2** – DataSource connection pooling  
 - **Maven** – Dependency and build management  
 Dependencies (from pom.xml):
-
