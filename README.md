@@ -1,12 +1,11 @@
 # Project Title  
 **JDBC Dealership Management System**
 
----
+-------------------------------------------------------------------------------------
 
 ## Description of the Project  
 This Java console application simulates a complete vehicle dealership management system.  
 It connects to a MySQL database using JDBC and allows users to:
-
 - Search for vehicles based on multiple criteria  
 - Add new vehicles into the dealership inventory  
 - Create contracts (Sales or Lease) for existing vehicles  
@@ -15,10 +14,9 @@ It connects to a MySQL database using JDBC and allows users to:
 
 The purpose of this project is to demonstrate database operations, console UI development, and Java–SQL integration as part of **Workbook 8C**.  
 The intended users are students, instructors, and anyone learning Java JDBC application development.
-
 The application solves the problem of managing dealership data by providing a simple, menu-driven interface that interacts with a real relational database.
 
----
+-------------------------------------------------------------------------------------
 
 ## User Stories  
 
@@ -73,6 +71,5 @@ Follow the instructions below to set up and run this project.
 - **MySQL 8.x** – Relational database  
 - **Apache DBCP2** – DataSource connection pooling  
 - **Maven** – Dependency and build management  
-
 Dependencies (from pom.xml):
 
