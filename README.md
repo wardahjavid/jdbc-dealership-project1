@@ -1,5 +1,4 @@
-# Project Title  
-**JDBC Dealership Management System**
+# JDBC Dealership Management System**
 
 -------------------------------------------------------------------------------------
 
@@ -71,4 +70,4 @@ Follow the instructions below to set up and run this project.
 - **MySQL 8.x** – Relational database  
 - **Apache DBCP2** – DataSource connection pooling  
 - **Maven** – Dependency and build management  
-Dependencies (from pom.xml):
+Dependencies (from pom.xml)
